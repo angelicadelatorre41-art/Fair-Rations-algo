@@ -1,1 +1,1 @@
-# Fair-Rations-algo
+# Fair-Rations-algo We traverse the list and whenever we encounter an odd number, we give 1 loaf to it and the next number, counting 2 loaves each time. If the last number remains odd after processing, it’s impossible to make all even, so we return "NO"; otherwise, we return the total loaves distributed.
